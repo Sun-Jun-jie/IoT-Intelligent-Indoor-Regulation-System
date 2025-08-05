@@ -1,0 +1,17 @@
+{
+  "subscribeTopics" : [ {
+    "name" : "/sys/k1orgtLaQXB/THcontrollor/thing/service/property/set",
+    "color" : "#B3E6E6"
+  }, {
+    "name" : "/k1orgtLaQXB/THcontrollor/user/get",
+    "color" : "#B3E6E6"
+  } ],
+  "publishTopics" : [ {
+    "name" : "/sys/k1orgtLaQXB/THcontrollor/thing/event/property/post"
+  }, {
+    "name" : "/sys/k1orgtLaQXB/THcontrollor/thing/service/property/set"
+  }, {
+    "name" : "/k1orgtLaQXB/THcontrollor/user/get"
+  } ],
+  "clipboardMessages" : [ ]
+}
